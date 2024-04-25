@@ -1,0 +1,9 @@
+Dokumentasjon på å sette opp game server for Wolfenstein: Enemy Territory på Windows Server 2022 og koble til. 
+
+1.	Det første som må gjøres er å laste ned grafikk drivers.  De kan du finne på denne siden. HP 260 G3 Desktop Mini PC Programvare- og drivernedlastinger | HP®-støtte Du velger OS og versjon og trykker send. Så finner du den som heter Driver-Grafikk og laster ned og installerer den. Husk, dette gjeller bare for denne speifike pc og du må finne riktig drivere for din pc.
+2.	Nå skal du laste ned spill serveren. 
+Gå til. splashdamage.com/games/wolfenstein-enemy-territory/  Og last ned den for Windows. Når den er lastet ned, installerer du det. Under installasjonen vill den be om en «etkey» her skal du bare trukke «ignore». 
+3.	Når spillet er ferdig installert, starter du det. Første gang blir du bet om å velge navn og sette tilkobling. For tilkobling velger du «LAN/CABLE/xDSL» Så trykker du «continue».
+4.	For å starte serveren Trykker do på «Host Game». Øverst velger du navnet til serveren, Så velger du maks antall spillere og så det vittigste under «Dedicated Server» Velger du «Yes – Internet». Hvis du ønsker passord for server, detter du det under. Det er også anbefalt å slå av «Friendly Fire» og «Max Lives» og slå på «Balanced Teams» 
+5.	Hvis innstilingene er riktige så skal du når du trykker på «Start Server» så skal du få opp en tekst boks trykk «YES» Når du trykker vil spill vinduet lukke seg og en konsoll vindu vill åpne seg, da er serveren opp og du kan koble til. 
+6.	For å koble til serveren må du laste ned samme spill som serveren, men isteden så trykker du på «Play Online» Nederste på siden er det «Connect To IP» og skriver inn serveren sin ip.
